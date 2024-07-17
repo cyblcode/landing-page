@@ -3,4 +3,53 @@ body {
     font-optical-sizing: auto;
     font-weight: 400;
     font-style: normal;
+    margin: 0;
+    padding: 0;
+}
+
+/* first section */
+
+main {
+    background-color: #1F2937;
+}
+
+.header {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 10px;
+}
+
+.links {
+    justify-self: center;
+    font-size: 24px;
+}
+
+a {
+    color: #E5E7EB;
+    text-decoration: none;
+    padding-top: 40px;
+    padding-right: 40px;
+}
+
+.logo {
+    font-size: 24px;
+    color: #F9FAF8;
+}
+
+.hero {
+    font-size: 48px;
+    font-weight: bolder;
+    color: #F9FAF8;
+}
+
+.hero-text {
+    font-size: 18px;
+    color: #E5E7EB
+}
+
+.hero-image {
+    width: 300px;
+    height: 300px;
+    display: flex;
 }
