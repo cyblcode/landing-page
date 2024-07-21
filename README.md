@@ -3,6 +3,6 @@ a landing page for odin project. by the time i've finished this, i will have lea
 
 credits:
 
-images are from [lorem picsum]([text](https://picsum.photos/))
+images are from [lorem picsum](https://picsum.photos)
 
 font: [Montserrat](https://fonts.google.com/specimen/Montserrat)
