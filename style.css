@@ -88,9 +88,15 @@ button {
 
 .info-img {
     display: flex;
+    flex-direction: row;
+    justify-content: space-around;
 }
 
-#info-images {
-    border: #3882F6 7px solid;
-    border-radius: 4px;
+.info-column {
+    border: 6px solid #3882F6;
+    border-radius: 3px;
+}
+
+figcaption {
+    text-align: center;
 }
