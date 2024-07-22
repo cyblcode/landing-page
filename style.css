@@ -90,6 +90,7 @@ button {
     display: flex;
     flex-direction: row;
     justify-content: space-around;
+    margin-bottom: 15%;
 }
 
 .info-column {
@@ -99,4 +100,24 @@ button {
 
 figcaption {
     text-align: center;
+}
+
+/* third section */
+
+.quote {
+    background-color: #E5E7EB;
+    padding: 10%;
+}
+
+.quote-text {
+    font-size: 36px;
+    font-weight: 300;
+    font-style: italic;
+}
+
+.quote-author {
+    font-size: 25px;
+    float: right;
+    padding-right: 15%;
+    font-weight: bold;
 }
