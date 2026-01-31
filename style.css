@@ -9,12 +9,15 @@ body {
 .hero {
     background-color: #1F2937;
     color: #F9FAF8;
+    padding-bottom: 5%;
 }
 
 .header {
     display: flex;
     justify-content: space-between;
     align-items: center;
+    padding-bottom: 15px;
+
 }
 
 ul {
@@ -37,4 +40,42 @@ a {
 .logo {
     font-size: 24px;
     margin-left: 20px;
+}
+
+.hero-content {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 5%;
+}
+
+.hero-text {
+    max-width: 500px;
+    margin-left: 20px;
+}
+
+.hero-main {
+    font-size: 48px;
+    font-weight: 900;
+    margin-bottom: 5px;
+}
+
+.hero-secondary {
+    font-size: 18px;
+    color: #E5E7EB;
+    margin-bottom: 10px;
+}
+
+.hero-button {
+    background-color: #3882F6;
+    color: white;
+    padding: 20px 30px 20px 30px;
+    border: 0;
+    border-radius: 5px;
+    font-size: 16px;
+    font-weight: bold;
+}
+
+.hero-image {
+    margin-right: 30%;
 }
