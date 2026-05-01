@@ -79,3 +79,30 @@ a {
 .hero-image {
     margin-right: 15%;
 }
+
+.info {
+    padding: 20px;
+}
+
+.info-header {
+    font-size: 36px;
+    color: #1F2937;
+    font-weight: 900;
+    text-align: center;
+    margin-bottom: 32px;
+}
+
+.info-container {
+    display: flex;
+    gap: 60px;
+}
+
+.info-image {
+    display: flex;
+    flex-direction: column;
+}
+
+.info-text {
+    text-align: center;
+
+}
