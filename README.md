@@ -5,3 +5,5 @@ this project is a replication of a landing page. by the time i finished this, i 
 ### Image credits
 ---
 Hero Image -> [Erkan Sivas](https://unsplash.com/photos/a-night-sky-with-a-few-stars-above-a-city-cwry5eQDVHQ)
+
+Info Images -> [Lorem Picsum](https://picsum.photos/)
