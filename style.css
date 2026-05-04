@@ -106,3 +106,8 @@ a {
     text-align: center;
 
 }
+
+#info-image {
+    border: 5px solid #3882F6;
+    border-radius: 1cm;
+}
